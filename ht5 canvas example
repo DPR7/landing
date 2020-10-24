@@ -1,0 +1,30 @@
+<html>
+    <head></head>
+    <body>
+        <canvas id="canvas1" width="400" height="300">
+        </canvas> 
+    <script>
+        var c=document.getElementById("canvas1");
+        var ctx=c.getContext("2d");
+        ctx.fillRect(20,20,100,100);
+    </script>
+    </body>
+</html>
+
+Draw a Line
+moveTo(x,y): Defines the starting point of the line.
+lineTo(x,y): Defines the ending point of the line.
+
+Draw a Circle
+beginPath(): Starts the drawing.
+arc(x,y,r,start,stop): Sets the parameters of the circle.
+stroke(): Ends the drawing.
+
+Gradients
+createLinearGradient(x,y,x1,y1): Creates a linear gradient.
+createRadialGradient(x,y,r,x1,y1,r1): Creates a radial/circular gradient.
+
+Drawing Text on the Canvas
+Font: Defines the font properties for the text.
+fillText(text,x,y): Draws "filled" text on the canvas.
+strokeText(text,x,y): Draws text on the canvas (no fill).
