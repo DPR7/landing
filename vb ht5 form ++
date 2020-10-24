@@ -1,0 +1,28 @@
+<form>
+    <label>Your name:</label>
+    <input id="user" name="username" type="text" />
+</form>
+
+     placeholder="email@example.com" 
+     autofocus
+     required 
+     
+     <input id="mysearch" name="searchitem" type="search" />
+     
+Input type
+     
+     - color
+    - date
+    - datetime
+    - datetime-local
+    - email
+    - month
+    - number
+    - range
+    - search
+    - tel
+    - time
+    - url
+    - week
+    
+    Input types that are not supported by old web browsers, will behave as input type text.
