@@ -1,0 +1,10 @@
+h1 {
+   display: none;
+}
+
+div.hidden {
+   visibility: hidden;
+}
+There are plenty of other display values, 
+such as list-item, table, table-cell, table-column, grid. 
+
