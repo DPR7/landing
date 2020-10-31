@@ -1,0 +1,15 @@
+The HTML <blockquote> element defines a section that is quoted from another source.
+
+The HTML <q> tag defines a short quotation.
+
+<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+
+The HTML <abbr> tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
+
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+
+The HTML <address> tag defines the contact information for the author/owner of a document or an article.
+
+The HTML <cite> tag defines the title of a creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.).
+
+The HTML <bdo> tag is used to override the current text direction:
