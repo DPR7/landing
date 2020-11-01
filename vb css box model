@@ -1,5 +1,9 @@
 p {
     padding: 10px;    
+    
+    The CSS padding property defines a padding (space) between the text and the border.
+    The CSS margin property defines a margin (space) outside the border.
+    
     border: 5px solid green;
     
     border-style: solid;
