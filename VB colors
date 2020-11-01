@@ -1,0 +1,16 @@
+
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+
+<h1 style="color:Tomato;">Hello World</h1>
+
+<h1 style="border:2px solid Tomato;">Hello World</h1>
+
+In HTML, colors can also be specified using RGB values, HEX values, HSL values, RGBA values, and HSLA values.
+
+<h1 style="background-color:rgb(255, 99, 71);">...</h1>
+
+The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all):
+
+In HTML, a color can be specified using hue, saturation, and lightness (HSL) in the form:
+
+HSLA color values are an extension of HSL color values with an Alpha channel - which specifies the opacity for a color.
