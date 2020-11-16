@@ -16,3 +16,10 @@
 p is a selector in CSS (it points to the HTML element you want to style: <p>).
 color is a property, and red is the property value
 text-align is a property, and center is the property value
+
+Selector	         Example	      Example description
+.class	         .intro      	Selects all elements with class="intro"
+#id	            #firstname	   Selects the element with id="firstname"
+*	               *	            Selects all elements
+element	         p	            Selects all <p> elements
+element,element   div, p	      Selects all <div> elements and all <p> elements
