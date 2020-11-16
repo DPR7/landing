@@ -14,3 +14,8 @@ The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not tra
 In HTML, a color can be specified using hue, saturation, and lightness (HSL) in the form:
 
 HSLA color values are an extension of HSL color values with an Alpha channel - which specifies the opacity for a color.
+
+div {
+  background-color: green;
+  opacity: 0.3;
+}
