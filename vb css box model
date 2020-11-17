@@ -37,3 +37,9 @@ In CSS, it is possible to specify different borders for different sides,
   border-bottom-style, and border-left-style for the corresponding sides.
   
   The border-style property is used in the example above. However, it also works with border-width and border-color.
+  
+  margin	      A shorthand property for setting the margin properties in one declaration
+margin-bottom	    Sets the bottom margin of an element
+margin-left	        Sets the left margin of an element
+margin-right	    Sets the right margin of an element
+margin-top	        Sets the top margin of an element
