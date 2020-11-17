@@ -19,3 +19,7 @@ div {
   background-color: green;
   opacity: 0.3;
 }
+
+When using the opacity property to add transparency to the background of an element,
+all of its child elements inherit the same transparency. 
+This can make the text inside a fully transparent element hard to read.
