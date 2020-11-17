@@ -35,3 +35,5 @@ p.hidden {border-style: hidden;}
 In CSS, it is possible to specify different borders for different sides, 
   using the following properties: border-top-style, border-right-style, 
   border-bottom-style, and border-left-style for the corresponding sides.
+  
+  The border-style property is used in the example above. However, it also works with border-width and border-color.
