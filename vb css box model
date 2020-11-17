@@ -43,3 +43,9 @@ margin-bottom	    Sets the bottom margin of an element
 margin-left	        Sets the left margin of an element
 margin-right	    Sets the right margin of an element
 margin-top	        Sets the top margin of an element
+
+padding	            A shorthand property for setting all the padding properties in one declaration
+padding-bottom	    Sets the bottom padding of an element
+padding-left	    Sets the left padding of an element
+padding-right	    Sets the right padding of an element
+padding-top	        Sets the top padding of an element
