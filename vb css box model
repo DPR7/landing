@@ -4,6 +4,8 @@ p {
     The CSS padding property defines a padding (space) between the text and the border.
     The CSS margin property defines a margin (space) outside the border.
     
+    box-sizing: border-box; buiten zijde blijft hetzelfde
+    
     border: 5px solid green;
     
     border-style: solid;
