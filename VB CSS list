@@ -1,5 +1,5 @@
 <!-- The list-style-image property specifies an image as the list item marker -->
-
+<!-- The list-style-position property specifies the position of the list-item markers (bullet points) -->
 <!DOCTYPE html>
 <html>
 <head>
