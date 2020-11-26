@@ -1,5 +1,7 @@
 <!-- The list-style-image property specifies an image as the list item marker -->
 <!-- The list-style-position property specifies the position of the list-item markers (bullet points) -->
+<!-- The list-style-type:none property can also be used to remove the markers/bullets. -->
+
 <!DOCTYPE html>
 <html>
 <head>
