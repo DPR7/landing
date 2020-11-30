@@ -1,0 +1,5 @@
+All CSS Overflow Properties
+Property	    Description
+overflow	    Specifies what happens if content overflows an element's box
+overflow-x	  Specifies what to do with the left/right edges of the content if it overflows the element's content area
+overflow-y	  Specifies what to do with the top/bottom edges of the content if it overflows the element's content area
