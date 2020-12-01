@@ -1,0 +1,7 @@
+Property	    Description
+box-sizing	  Defines how the width and height of an element are calculated: should they include padding and borders, or not
+clear	        Specifies what elements can float beside the cleared element and on which side
+float	        Specifies how an element should float
+overflow	    Specifies what happens if content overflows an element's box
+overflow-x	  Specifies what to do with the left/right edges of the content if it overflows the element's content area
+overflow-y	  Specifies what to do with the top/bottom edges of the content if it overflows the element's content area
