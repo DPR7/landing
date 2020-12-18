@@ -1,0 +1,11 @@
+When an HTML element on your page has display: grid or display: inline-grid applied to it,
+you can see a grid badge next to it in the Elements panel. 
+Click the badge to toggle the display of a grid overlay on the page.
+
+The new Layout pane has a Grid section offering you a number of options for viewing the grids.
+
+Check out the documentation to learn more.
+
+Chromium issue: 1047356
+
+https://developers.google.com/web/updates/2020/10/devtools?utm_source=devtools#css-grid
