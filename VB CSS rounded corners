@@ -1,0 +1,6 @@
+Property	Description
+border-radius	                  A shorthand property for setting all the four border-*-*-radius properties
+border-top-left-radius	        Defines the shape of the border of the top-left corner
+border-top-right-radius	        Defines the shape of the border of the top-right corner
+border-bottom-right-radius	    Defines the shape of the border of the bottom-right corner
+border-bottom-left-radius	      Defines the shape of the border of the bottom-left corner
