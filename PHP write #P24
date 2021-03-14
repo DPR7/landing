@@ -1,0 +1,6 @@
+Write to File
+
+When writing to a file, use the fwrite() function.
+The first parameter of fwrite() is the file to write to; the second parameter is the string to be written.
+
+The example below writes a couple of names into a new file called "names.txt".
