@@ -1,0 +1,13 @@
+Appending to a File
+
+If you want to append content to a file, you need to open the file in append mode.
+
+For example:
+$myFile = "test.txt";
+$fh = fopen($myFile, 'a');
+fwrite($fh, "Some text");
+fclose($fh);
+PHP
+When appending to a file using the 'a' mode, 
+the file pointer is placed at the end of the file, 
+ensuring that all new data is added at the end of the file.
