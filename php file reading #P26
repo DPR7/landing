@@ -1,0 +1,7 @@
+Reading a File
+
+The file() function reads the entire file into an array. 
+Each element within the array corresponds to a line in the file:
+
+This prints all of the lines in the file, and separates them with commas.
+We used the foreach loop, because the $read variable is an array.
