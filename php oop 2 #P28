@@ -1,0 +1,23 @@
+PHP Classes
+
+
+In PHP, a class can include member variables called properties for defining the features of an object, 
+and functions, called methods, for defining the behavior of an object. 
+A class definition begins with the keyword class, followed by a class name. 
+Curly braces enclose the definitions of the properties and methods belonging to the class.
+
+For example:
+class Person {
+  public $age; //property
+  public function speak() { //method
+    echo "Hi!"
+  }
+}
+PHP
+
+The code above defines a Person class that includes an age property and a speak() method.
+A valid class name starts with a letter or underscore, followed by any number of letters, numbers, or underscores.
+Notice the keyword public in front of the speak method; it is a visibility specifier.
+The public keyword specifies that the member can be accessed from anywhere in the code.
+There are other visibility keywords and we will learn about them in later lessons.
+Check out the next lesson to see how to instantiate objects!
