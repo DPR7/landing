@@ -1,0 +1,19 @@
+PHP Objects
+
+
+The process of creating an object of a class is called instantiation.
+To instantiate an object of a class, use the keyword new, as in the example below:
+
+$bob = new Person();
+PHP
+In the code above, $bob is an object of the Person class.
+
+To access the properties and methods of an object, use the arrow (->) construct, as in:
+echo $bob->age;
+PHP
+This statement outputs the value of the age property for $bob. 
+If you want to assign a value to a property use the assignment operator = as you would with any variable.
+
+Let's define the Person class, instantiate an object, make an assignment, and call the speak() method:
+
+Run the code and see how it works!
