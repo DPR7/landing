@@ -1,0 +1,16 @@
+PHP Class Constructor
+
+
+PHP provides the constructor magic method __construct(), 
+which is called automatically whenever a new object is instantiated.
+
+For example:
+
+The __construct() method is often used for any initialization that the object may need before it is used. 
+Parameters can be included in __construct() to accept values when the object is created.
+
+For example:
+
+In the code above, the constructor uses arguments in the new statement to initialize corresponding class properties.
+You can't write multiple __construct() methods with different numbers of parameters. 
+Different constructor behavior must be handled with logic within a single __construct() method.
